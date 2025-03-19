@@ -19,11 +19,13 @@ This file is created as part of Assignment #2 to document the process of using G
 | `git config --global user.email "your@email.com"` | Sets the global Git email                                   |
 
 ---
-📌 Examples of commands I used in this assignment :
+📌 Some examples of commands I used in this assignment :
 - **The command updates the README.md file by staging the changes, committing them with a message, and pushing them to the main branch on GitHub**.
+
 ![The command updates the README.md file by staging the changes, committing them with a message, and pushing them to the main branch on GitHub.](img/git_add.png)
 
 - **The git pull origin main command is used to fetch and merge the latest changes from the remote repository's main branch into the local repository**.
+
 ![The git pull origin main command is used to fetch and merge the latest changes from the remote repository's main branch into the local repository.](img/git_pull_command.png)
 
 ---
@@ -39,6 +41,17 @@ This file is created as part of Assignment #2 to document the process of using G
 
 
 ---
+📌 Some examples of commands I used in this assignment : 
+- **The command Add-Content coordinates.csv was used to append a new location entry to the coordinates.csv file without overwriting its existing content**.
+
+![The command Add-Content coordinates.csv was used to append a new location entry to the coordinates.csv file without overwriting its existing content.](img/add_content_command.png)
+
+- **The command Move-Item moves the file hacettepe.jpg from the Downloads folder to the img directory inside the demo-repo project**.
+  
+![The command Move-Item moves the file hacettepe.jpg from the Downloads folder to the img directory inside the demo-repo project](img/move_item.png)
+
+---
+
 
 ## **2. Difference Between Local Git Workflow and GitHub Workflow**
 
