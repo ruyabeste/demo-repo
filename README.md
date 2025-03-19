@@ -20,8 +20,10 @@ This file is created as part of Assignment #2 to document the process of using G
 
 ---
 📌 Examples of commands I used in this assignment :
+- **The command updates the README.md file by staging the changes, committing them with a message, and pushing them to the main branch on GitHub**.
 ![The command updates the README.md file by staging the changes, committing them with a message, and pushing them to the main branch on GitHub.](img/git_add.png)
 
+- **The git pull origin main command is used to fetch and merge the latest changes from the remote repository's main branch into the local repository**.
 ![The git pull origin main command is used to fetch and merge the latest changes from the remote repository's main branch into the local repository.](img/git_pull_command.png)
 
 ---
